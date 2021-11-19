@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Stock-News/static/css/main.ef6bbf6d.chunk.css",
+    "main.js": "/Stock-News/static/js/main.609bb344.chunk.js",
+    "main.js.map": "/Stock-News/static/js/main.609bb344.chunk.js.map",
+    "runtime-main.js": "/Stock-News/static/js/runtime-main.517c2aa8.js",
+    "runtime-main.js.map": "/Stock-News/static/js/runtime-main.517c2aa8.js.map",
+    "static/css/2.e0a8df7e.chunk.css": "/Stock-News/static/css/2.e0a8df7e.chunk.css",
+    "static/js/2.596ac7af.chunk.js": "/Stock-News/static/js/2.596ac7af.chunk.js",
+    "static/js/2.596ac7af.chunk.js.map": "/Stock-News/static/js/2.596ac7af.chunk.js.map",
+    "index.html": "/Stock-News/index.html",
+    "static/css/2.e0a8df7e.chunk.css.map": "/Stock-News/static/css/2.e0a8df7e.chunk.css.map",
+    "static/css/main.ef6bbf6d.chunk.css.map": "/Stock-News/static/css/main.ef6bbf6d.chunk.css.map",
+    "static/js/2.596ac7af.chunk.js.LICENSE.txt": "/Stock-News/static/js/2.596ac7af.chunk.js.LICENSE.txt",
+    "static/media/styles.css": "/Stock-News/static/media/revicons.e8746a62.woff",
+    "static/media/video.d751bb5e.mp4": "/Stock-News/static/media/video.d751bb5e.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.517c2aa8.js",
+    "static/css/2.e0a8df7e.chunk.css",
+    "static/js/2.596ac7af.chunk.js",
+    "static/css/main.ef6bbf6d.chunk.css",
+    "static/js/main.609bb344.chunk.js"
+  ]
+}
