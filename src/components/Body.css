@@ -1,0 +1,14 @@
+.body {
+    padding: 1%;
+}
+
+.body__news {
+    padding: 20px;
+    
+    color: rgb(0, 0, 0);
+}
+
+.carousel {
+    backdrop-filter: blur(5px);
+    padding: 20px 10px;
+}
