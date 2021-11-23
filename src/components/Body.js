@@ -52,7 +52,7 @@ const responsive1 = {
         breakpoint: { max: 464, min: 0 },
         items: 1
     }
-    };
+};
 
 function Body() {
     const name = useSelector(selectName);
@@ -61,9 +61,8 @@ function Body() {
     const [quotes, setQuotes] = useState([]);
 
     useEffect(() => {
-        console.log("VALUES");
-        
         const url = `https://yh-finance.p.rapidapi.com/auto-complete?q=${name}`;
+
         axios
         .get(url, header)
         .then((res) => {
@@ -74,11 +73,8 @@ function Body() {
 
     }, [name]);
 
-    console.log(news);
-    console.log(quotes);
-
-    // news -> title
-    // stocks -> score, exchDisp, longname
+    // console.log(news);
+    // console.log(quotes);
 
     return (
         <div className="body">

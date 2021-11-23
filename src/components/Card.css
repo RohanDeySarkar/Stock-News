@@ -11,13 +11,20 @@
 }
 
 .card > h1 {
-    color: rgb(0, 153, 255);
+    font-weight: 800;
+    letter-spacing: 0.1rem;
+    color: rgb(0,191,220);
 }
 
 .card > h2 {
-    color: rgb(0, 255, 0);
+    font-weight: 800;
+    letter-spacing: 0.3rem;
+    color: #2bff00;
 }
 
 .card > p {
-    color: white;
+    font-weight: 800;
+    font-size: 12px;
+    letter-spacing: 0.08rem;
+    color: whitesmoke;
 }
